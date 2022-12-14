@@ -1,0 +1,8 @@
+The basic syntax is --->      program | action | destination
+git clone [HTPS/SSH address]   "command to clone git repo to local machine"
+git remote -v                 "dispaly the URL of the repository you created on command line"
+git status 
+git add                          "this command adds file to the staging area in git"
+git commit -m "...message..."       
+git log                                     
+git push / git push origin main        "upload your work to github repository "
